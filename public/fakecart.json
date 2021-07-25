@@ -1,0 +1,65 @@
+[{
+  "id":1,
+  "title":"Perforations Round Neck",
+  "size":"L",
+  "gender":"M",
+  "brand":"ADIDAS",
+  "image": "https://rukminim1.flixcart.com/image/660/792/kqidx8w0/t-shirt/v/m/s/m-ha7013-adidas-original-imag4gdbsyvvfvna.jpeg?q=50",
+  "price": 824
+},{
+  "id":2,
+  "title":"Polo Neck Red T-Shirt",
+  "size":"M",
+  "gender":"M",
+  "brand":"VEN HEUSEN",
+  "image": "https://rukminim1.flixcart.com/image/660/792/kdrpksw0-0/t-shirt/s/t/c/m-vskpwrgp118780-van-heusen-sport-original-imafukx5u7fpz529.jpeg?q=50",
+  "price": 363
+},{
+  "id":3,
+  "title":"Solid Hooded Neck",
+  "size":"XL",
+  "gender":"M",
+  "brand":"TRICKY WEAR",
+  "image": "https://rukminim1.flixcart.com/image/660/792/kmxsakw0/t-shirt/u/5/7/s-tw-3015peacock-tricky-wear-original-imagfqh8hqsfftyq.jpeg?q=50",
+  "price": 379
+},{
+  "id":4,
+  "title":"Solid Hooded Neck Yellow",
+  "size":"S",
+  "gender":"M",
+  "brand":"HELMONT",
+  "image": "https://rukminim1.flixcart.com/image/660/792/kflftzk0-0/t-shirt/p/d/v/l-hm-1001-mustard-black-helmont-original-imafwyfb2tqmjdhw.jpeg?q=50",
+  "price": 130
+},{
+  "id":5,
+  "title":"Solid Rayon Kurta",
+  "size":"L",
+  "gender":"F",
+  "brand":"YESLY",
+  "image": "https://rukminim1.flixcart.com/image/660/792/kkyc9zk0/kurta/6/w/s/l-a-j-001-black-yesly-original-imagy6j2g7uxxkjg.jpeg?q=50",
+  "price": 474
+},{
+  "id":6,
+  "title":"Printed Rayon Flared",
+  "size":"M",
+  "gender":"F",
+  "brand":"LEE",
+  "image": "https://rukminim1.flixcart.com/image/660/792/kflftzk0-0/kurta/y/7/k/s-4053-lee-moda-original-imafwyr6rsh5v9qj.jpeg?q=50",
+  "price": 639
+},{
+  "id":7,
+  "title":"Printed Rayon A-line ",
+  "size":"S",
+  "gender":"F",
+  "brand":"RANGSHALAA",
+  "image": "https://rukminim1.flixcart.com/image/660/792/kpr8k280/kurta/u/p/t/xxl-skew-gold-print-flared-kurta-navy-blue-ganika-creation-original-imag3x6fcmfhwfcc.jpeg?q=50",
+  "price": 650
+},{
+  "id":8,
+  "title":"Revolution 5 Running Shoes",
+  "size":"M",
+  "gender":"F",
+  "brand":"NIKE",
+  "image": "https://rukminim1.flixcart.com/image/660/792/k52s58w0/shoe/j/k/f/bq3207-002-6-5-nike-black-white-anthracite-original-imafnu9rzghandsp.jpeg?q=50",
+  "price": 1762
+}]
